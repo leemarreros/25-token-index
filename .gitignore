@@ -1,0 +1,6 @@
+node_modules/
+build/
+SAFEMOON.sol
+.env
+package-lock.json
+bin
